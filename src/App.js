@@ -1,9 +1,9 @@
 import 'bootstrap/dist/css/bootstrap.min.css';
 import './App.css';
-import First from './components/First/First';
-import Footer from './components/Footer/Footer';
-import Header from './components/Header/Header';
-import { Second, Third } from './components/Second/Second';
+import First from './components/first/First';
+import Footer from './components/footer/Footer';
+import Header from './components/header/Header';
+import { Second, Third } from './components/second/Second';
 
 
 function App() {
